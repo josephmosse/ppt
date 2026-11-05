@@ -1,0 +1,11 @@
+{
+  "data": "data/irrbb_input.xlsx",
+  "template": "templates/irrbb_template.pptx",
+  "output_dir": "output",
+  "layouts": {
+    "title": "Title Slide",
+    "content": "Title and Content",
+    "two_content": "Two Content",
+    "title_only": "Title Only"
+  }
+}
